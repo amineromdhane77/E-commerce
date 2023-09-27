@@ -1,0 +1,37 @@
+.recommended-flex {
+  display: flex;
+  margin-left: 20rem;
+  padding: 10PX 20PX;
+ 
+    
+  
+}
+
+.recommended-title {
+  margin-left: 20rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+  
+}
+Button{
+  font-size: 20PX;
+ background-color: rgb(28, 28, 33);
+ 
+  float: left;
+  padding: 12px;
+  color: rgb(226, 15, 15);
+  padding :  10px 20px;
+  font-size: 17px;
+  width: 20%;
+  text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: #596365;
+}
+
